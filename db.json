@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1",
+      "description": "Description 1",
+      "comments": "Comments 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 2",
+      "description": "Description 2",
+      "comments": "Comments 2"
+    },
+    {
+      "id": 3,
+      "name": "Category 3",
+      "description": "Description 3",
+      "comments": "Comments 3"
+    },
+    {
+      "name": "mantesh gurav",
+      "description": "mantesh gurav",
+      "id": 4
+    }
+  ]
+}
